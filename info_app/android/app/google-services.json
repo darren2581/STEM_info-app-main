@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519139634593",
+    "project_id": "ieee-cmsb-app",
+    "storage_bucket": "ieee-cmsb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519139634593:android:ba30717bc8e321a0de2fe0",
+        "android_client_info": {
+          "package_name": "ieee.cmsb.infoconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIXdsvGaee3OYq17lJui5KTLIXfGJ-48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
